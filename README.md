@@ -9,13 +9,13 @@ Email: duguoweisz@gmail.com
 Phone: 13417431640  
 WeChat: dgw_cn  
 Kernel: 5.10.66  
-Android: 12  
+Ubuntu: 18.04  
 
 *************************************************************************************************  
 
-sudo apt-get update
-sudo apt-get install ruby
-sudo gem install fy
+sudo apt-get update  
+sudo apt-get install ruby  
+sudo gem install fy  
 
 *************************************************************************************************  
 
